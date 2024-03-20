@@ -1,0 +1,4 @@
+#Users must have write permissions to be added a codeowner
+
+*     @addyapproved
+*.md  @adomonir
